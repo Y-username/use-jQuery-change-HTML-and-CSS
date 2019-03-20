@@ -20,9 +20,9 @@
 8. $("#my_footer").html();
    <p id="copyright">Copyright Infomation</p>
 9. $("body").html();
-10. $("#my_footer").html("<h4> This is my fancy new content, thx jQuery! </h4>");
+10. $("#my_footer").html("<header> This is my fancy new content, thx jQuery! </header>");
 11. $("#my_footer").text(" This is my fancy new content, thx jQuery again!!");  to replace the text
 12. $("#myElement").append("<p>This is a new element</p>"); //append new element <p> to the element with myElement ID
 13. $("#my_footer").append("<span>&copy; 2017. </span>");  //append copyright sign to footer
-14. 
+14. $("a").remove(); remove all links from the page. <strong>do not put $("li").remove()</strong>
 
