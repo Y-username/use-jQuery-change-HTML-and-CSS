@@ -1,6 +1,4 @@
-$(document).ready(function() {
- 
-
+/*$(document).ready(function() {
  	$("#stream1_btn").on("click", function() {
  		$(".stream1").removeClass('highlight_stream');
 		$(".stream2").removeClass('highlight_stream');
@@ -19,6 +17,6 @@ $(document).ready(function() {
 		$(".stream3").removeClass('highlight_stream');
 	  	$(".stream3").addClass('highlight_stream');
 	});
-
-
 }); 
+*/
+/*jquery effect challenge 2*/
